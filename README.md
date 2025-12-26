@@ -1,4 +1,7 @@
 <h1 align="center">Hi there, I'm Juan 👋</h1>
+<p align="center">
+  <img src="URL_DE_TU_FOTO" width="180" style="border-radius:50%"/>
+</p>
 
 <p align="center">
   <b>Computer Science for Transfer (AST)</b><br>
